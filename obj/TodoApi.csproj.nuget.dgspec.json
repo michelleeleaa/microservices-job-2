@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pomadmin/TodoApi/TodoApi.csproj": {}
+    "/Users/pomadmin/microservices-job-2/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/pomadmin/TodoApi/TodoApi.csproj": {
+    "/Users/pomadmin/microservices-job-2/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pomadmin/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/pomadmin/microservices-job-2/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/pomadmin/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/pomadmin/microservices-job-2/TodoApi.csproj",
         "packagesPath": "/Users/pomadmin/.nuget/packages/",
-        "outputPath": "/Users/pomadmin/TodoApi/obj/",
+        "outputPath": "/Users/pomadmin/microservices-job-2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pomadmin/.config/NuGet/NuGet.Config"

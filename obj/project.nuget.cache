@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qQSgNU7jjQecvtU2+8GDYNlw9hSybPG89Xxu09+pbT09z8y6fqmlPfv0U/ySQxENRSjK4lE7CBYS77qi/M40g==",
+  "dgSpecHash": "QrjrCbX569LGM7gCw4PCLJ+1/atJOcSNnYX3BuiibMcoim2GeC/6AQRrSbbmzH/cjSIhV9WQtrX9/wDnrCBtFA==",
   "success": true,
-  "projectFilePath": "/Users/pomadmin/TodoApi/TodoApi.csproj",
+  "projectFilePath": "/Users/pomadmin/microservices-job-2/TodoApi.csproj",
   "expectedPackageFiles": [
     "/Users/pomadmin/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/pomadmin/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
